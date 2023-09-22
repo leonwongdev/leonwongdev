@@ -1,5 +1,6 @@
 ### Hi there, I am Lap Wang 👋
 
+![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaz70EFXAx-DG_o7n25PR0nyq-0exwdvDeh-uufjHf&s)
 <!--
 **leonwongdev/leonwongdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
