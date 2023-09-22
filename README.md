@@ -1,6 +1,11 @@
-### Hi there, I am Lap Wang 👋
+# Hi there, I am Lap Wang 👋
 
-![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaz70EFXAx-DG_o7n25PR0nyq-0exwdvDeh-uufjHf&s)
+
+## 🌱 About me
+- I am currently enrolled in the Web Development program at Humber College
+- I like playing FPS games
+- I like sushi, ice cream, hot pot
+
 <!--
 **leonwongdev/leonwongdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
