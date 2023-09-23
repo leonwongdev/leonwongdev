@@ -1,7 +1,7 @@
 # Hi there, I am Lap Wang 👋
 
 <p align="left">
-  <img src="./_readme/img/banner.gif" alt="Banner about me"/>
+  <img src="./_readme/img/terminal.gif" alt="Banner about me"/>
 </p>
 
 ## 🌱 About me
@@ -12,4 +12,4 @@
 
 ## 🔥 My Stats :
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=leonwongdev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leonwongdev&theme=radical)
