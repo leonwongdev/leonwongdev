@@ -9,9 +9,16 @@
 ## 🌱 About me
 
 - I am currently enrolled in the Web Development program at Humber College
+- Tech stack: Typescript, React, C#, .Net
 - I like playing FPS games
 - I like sushi, ice cream, hot pot
 
+## 💡 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=ts,react,cs,dotnet,azure,docker)](https://skillicons.dev)
+
 ## 🔥 My Stats :
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leonwongdev&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=leonwongdev&theme=radical)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonwongdev&layout=compact&theme=radical)
