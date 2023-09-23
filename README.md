@@ -4,18 +4,21 @@
   <img src="./_readme/img/terminal.gif" alt="Banner about me"/>
 </p>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-0183BF?style=flat-square&labelColor=0183BF&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leonwonglww)](https://www.linkedin.com/in/leonwonglww)
-
 ## 🌱 About me
 
 - I am currently enrolled in the Web Development program at Humber College
-- Tech stack: Typescript, React, C#, .Net
+- Tech stack: Javascript, React, C#, .Net
 - I like playing FPS games
 - I like sushi, ice cream, hot pot
 
 ## 💡 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,cs,dotnet,azure,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,cs,dotnet,azure,docker)](https://skillicons.dev)
+
+## Contacts
+
+[![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-0183BF?style=for-the-badge&labelColor=0183BF&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leonwonglww)](https://www.linkedin.com/in/leonwonglww)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonwonglww@gmail.com)
 
 ## 🔥 My Stats :
 
