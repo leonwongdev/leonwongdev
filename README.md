@@ -1,4 +1,4 @@
-# Hi there, I am Lap Wang 👋
+# Hi there, I am Lap Wang (Leon) 👋
 
 <p align="left">
   <img src="./_readme/img/terminal.gif" alt="Banner about me"/>
