@@ -8,6 +8,7 @@
 
 - [Note taking app for youtube](https://github.com/leonwongdev/youtube-notes-react)
 - [.Net Core 8 backend for the note taking app](https://github.com/leonwongdev/youtube-notes-api)
+- [Chrome extension for pronunciation search on Howjsay and Youglish](https://github.com/leonwongdev/pronunciation-ext)
 - [Space Travel Web Game](https://github.com/leonwongdev/css-spaceship-game)
 - [Sports Facilities Finder for Hong Kong (Android)](https://github.com/leonwongdev/SportsFacilitiesFinderHK-Android)
 
